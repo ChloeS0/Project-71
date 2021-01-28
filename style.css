@@ -1,0 +1,133 @@
+body
+{
+    text-align: center;
+}
+
+#paragraph
+{
+    font-size: 20px;
+    color:blue;
+}
+
+.nav navbar-nav
+{
+    position: fixed;
+    top:0;
+    z-index:10;
+}
+#name
+{
+    color:blue;
+}
+#videos
+{
+    margin-bottom: 50px;
+    margin-top: 200px;
+}
+
+.img
+{
+    width:75%;
+    margin-top: 50px;
+}
+#dr
+{
+   margin-left: 200px; 
+    
+}
+#name
+{
+     text-shadow: 3px 3px #09ed37;
+    font-weight: bold;
+}
+#menu
+{
+    z-index: 10;
+}
+#direct
+{
+    margin-bottom: 50px;
+    margin-top: 200px;
+}
+html
+{
+    scroll-behavior: smooth;
+    
+}
+#title
+{
+    font-weight: bold;
+}
+#menu
+{
+    position: fixed;
+}
+
+.row::after
+{
+    content: "";
+    clear: both;
+    display: table;
+}
+.travel_mainDiv
+{
+    float:left;
+    width: 33.33%;
+    padding:5px;
+    border:1 px solid #c7c7c7;
+}
+.travel_mainDiv img
+{
+    width: 100%;
+    height: 300px;
+    
+}
+
+.travel_mainDiv hr
+{
+    width: 100%;
+}
+
+.travel_mainDiv h5, travel_mainDiv p
+{
+    margin-left: 20px;
+}
+
+#achievmentsID
+{
+    padding-bottom: 10px;
+}
+.movies_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+    display: inline-block;
+}
+.highlight
+{
+    cursor: pointer;
+}
+.highlight hr
+{
+    margin-bottom: 10px;
+}
+.modal-content
+{
+    margin-top: 100px;
+    
+}
+.img-modal
+{
+    display: inline-block;
+}
+.p_modal
+{
+    margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center;
+}
